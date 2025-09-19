@@ -1,6 +1,7 @@
 🎭 Theatre Management System
 A Java Swing application for managing theatre operations with MySQL as the database.
 🚀 Setup Instructions
+
 1️⃣ Install JDK
 Make sure you have Java Development Kit (JDK 8 or higher) installed.
 Verify installation:
